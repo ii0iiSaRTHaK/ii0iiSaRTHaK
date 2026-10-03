@@ -11,7 +11,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/ii0iiSarthak/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef)](https://www.codechef.com/users/major_crane_07)
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/ii0iiSarthak?theme=dark)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ii0iiSarthak?theme=unicorn)](https://leetcode.com/u/ii0iiSarthak/)
 ---
 ## 🚀 Featured Projects
 
