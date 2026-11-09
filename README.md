@@ -17,7 +17,11 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 
 ### 🤖 IRIS Voice Assistant
 
-🔗 [View Project](../IRIS-voice-assistant)
+🔗 [View Project](https://github.com/ii0iiSaRTHaK/IRIS-voice-assistant.git)
+
+### ⚽ EPL Market Value Predictor
+
+🔗 [View Project](https://github.com/ii0iiSaRTHaK/EPL-Market-Value-Predictor.git)
 
 ---
 
@@ -53,8 +57,9 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 ## 🏆 Achievements
 
 - 🥇 Winner — Code Fusion Coding Competition
+- 🥇 Winner — Ideathon 2.0 LIET
 - 🚀 Qualified for multiple hackathons
-- 🔥90+ day streak on Codechef 
+- 🔥100 day streak on Codechef 
 
 ---
 
